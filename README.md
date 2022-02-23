@@ -7,3 +7,4 @@
 
 * [微服务从代码到K8s部署应有尽有](https://developer.51cto.com/article/701908.html)
 * [go-zero v1.1 教程](https://www.bookstack.cn/read/go-zero-1.1.8-zh/contributor.md)
+* [go-zero office github](https://github.com/zeromicro/go-zero/blob/master/readme-cn.md)
