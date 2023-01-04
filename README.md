@@ -1,6 +1,6 @@
 * [Concurrency in Go 深入介绍Go并发的书籍并不多见，这本书值得一读](https://www.kancloud.cn/mutouzhang/go/596804)
 
-
+* [Go 语言设计与实现 ](https://draveness.me/golang/#%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99%E8%BF%99%E6%9C%AC%E4%B9%A6)
 
 
 # 参考
